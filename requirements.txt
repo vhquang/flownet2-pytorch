@@ -1,0 +1,9 @@
+
+numpy
+torch  #( == 0.4.1, for <= 0.4.0 see branch python36-PyTorch0.4)
+scipy
+scikit-image
+tensorboardX
+colorama
+tqdm
+setproctitle
